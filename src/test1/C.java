@@ -8,9 +8,10 @@ public class C {
 	private void c2() {
 		int hello = c3();
 		int hai = c1();
+		int bra = hello + hai;
 	}
 	
 	private int c3() {
-		return 0;
+		return 1;
 	}
 }
