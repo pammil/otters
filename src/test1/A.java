@@ -4,6 +4,6 @@ public class A {
 	public void a1() {
 		B b = new B();
 		b.b1(); 
-		 
+		int bunnies = 9000; 
 	}
 }
