@@ -1,7 +1,10 @@
 package test1;
 
 public class C {
+
 	public int c1() { 
+		B b = new B();
+		b.b3();
 		return 1;
 	}
 	
